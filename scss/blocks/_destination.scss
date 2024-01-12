@@ -9,11 +9,12 @@
 .destination__navbar{
     background-image: url("../images/destination/navbar-img.png");
     background-repeat: no-repeat;
+    background-size: 973px 96px;
     background-position: right;
 }
 .destination__list{
-    margin-left: 88px;
     display: flex;
+    padding: 0 167px 0 88px;
 }
 
 .destination__item-link{
