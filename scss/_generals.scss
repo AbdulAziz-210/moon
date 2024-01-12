@@ -10,5 +10,20 @@
 
 
 body{
-    // font-family:  ;
+    font-family:'Barlow', sans-serif;
+    font-family: 'Bellefair', serif;
+    font-family: 'Barlow Condensed', sans-serif;
+    
+    
+    background-image: url("../images/home-header/background.jpg");
+    background-size: 100%;
+    height: 110vh;
+    background-repeat: no-repeat;
+    
+
+    position: relative;
+}
+.destination-body{
+    position: relative;
+    background-image: url("../images/destination/Bitmap.jpg");
 }
